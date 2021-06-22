@@ -1,21 +1,21 @@
-# Hackintosh EFI
+### Hackintosh EFI
 
-# Tool setup
+### Tool setup
 
-## Command Line Tool
+#### Command Line Tool
 
-### Install iTerm2
+##### Install iTerm2
 
-### Install ohmyzsh
+##### Install ohmyzsh
 
-### Install powerlevel10k theme
+##### Install powerlevel10k theme
 
-### Install custom fonts
+##### Install custom fonts
 
-### Copy powerlevel10k configuration to .zshrc
+##### Copy powerlevel10k configuration to .zshrc
 
 ![iTerm Preview](/images/iterm-preview-2.png)
 
-## Xcode
-### Theme and Key binding
+#### Xcode
+##### Theme and Key binding
 Go to ~/Library/Developer/Xcode/UserData/FontAndColorThemes then copy those 2 files .idekeybindings and .xccolortheme
