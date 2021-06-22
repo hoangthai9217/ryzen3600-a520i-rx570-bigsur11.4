@@ -14,7 +14,7 @@
 
 ### Copy powerlevel10k configuration to .zshrc
 
-![iTerm Preview](/images/iterm-preview-1.png)
+![iTerm Preview](/images/iterm-preview-2.png)
 
 ## Xcode
 ### Theme and Key binding
