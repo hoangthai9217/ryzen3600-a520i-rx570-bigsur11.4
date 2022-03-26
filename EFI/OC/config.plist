@@ -1457,7 +1457,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>-v keepsyms=1 debug=0x100 alcid=1 npci=0x2000</string>
+				<string>-v keepsyms=1 debug=0x100 alcid=1 npci=0x2000 agdpmod=pikera</string>
 				<key>run-efi-updater</key>
 				<string>No</string>
 				<key>csr-active-config</key>
@@ -1526,17 +1526,17 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>C020378024N00001H</string>
+			<string>C02121600GU0000JC</string>
 			<key>ROM</key>
-			<data>BEvtkzhu</data>
+			<data>zHhfFR9k</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
 			<string>iMac20,2</string>
 			<key>SystemSerialNumber</key>
-			<string>C02DD0BA046M</string>
+			<string>C02FR0T6046M</string>
 			<key>SystemUUID</key>
-			<string>34F6A155-51A8-4CCF-A17C-8BC36E60B3CE</string>
+			<string>4D394DBD-5DFC-4A68-A604-9762384F42F0</string>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
